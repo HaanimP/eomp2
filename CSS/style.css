@@ -87,39 +87,10 @@ body{
 }
 
 
+
 body {background: #222;}
 
 /* leaf animations */
-
-
-
-/*--Education--*/
-#education{
-    padding: 80px;
-    background: #9F241D;
-    color: #5D120F;
-    text-align: center;
- folderStructure
-    padding-top: 7%;
-}
-
-.table{
-    background: #5D120F;
-    color: #fff;
-    width: 90vw;
-    margin-left:auto;
-    margin-right: auto;
-}   
-
-.images{
-    width: 100px;
-}
-
-
- 
-
-/*--Animation--*/
-
 
 #leaves {position:relative;top:-50px;width:100%;text-align: right;}
 
@@ -256,12 +227,6 @@ body {background: #222;}
     }
 }
 
-/*----about----*/
-
-
-}
-
-
 /*--About--*/
 
 #about{
@@ -295,12 +260,6 @@ body {background: #222;}
     font-size: 60px;
     font-weight: 600;
     color: #51822B ;
-}
-
-
-body {
-    background: #222;
-
 }
 
 /*----skills----*/
@@ -409,6 +368,29 @@ body {
 
 #softSkills{
     text-align:center
+}
+
+
+/*--Education--*/
+#education{
+    padding: 80px;
+    background: #9F241D;
+    color: #5D120F;
+    text-align: center;
+ folderStructure
+    padding-top: 7%;
+}
+
+.table{
+    background: #5D120F;
+    color: #fff;
+    width: 90vw;
+    margin-left:auto;
+    margin-right: auto;
+}   
+
+.images{
+    width: 100px;
 }
 
 
