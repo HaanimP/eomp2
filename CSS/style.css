@@ -86,9 +86,40 @@ body{
     color: #E5C263;
 }
 
+
 body {background: #222;}
 
 /* leaf animations */
+
+
+
+/*--Education--*/
+#education{
+    padding: 80px;
+    background: #9F241D;
+    color: #5D120F;
+    text-align: center;
+ folderStructure
+    padding-top: 7%;
+}
+
+.table{
+    background: #5D120F;
+    color: #fff;
+    width: 90vw;
+    margin-left:auto;
+    margin-right: auto;
+}   
+
+.images{
+    width: 100px;
+}
+
+
+ 
+
+/*--Animation--*/
+
 
 #leaves {position:relative;top:-50px;width:100%;text-align: right;}
 
@@ -226,6 +257,13 @@ body {background: #222;}
 }
 
 /*----about----*/
+
+
+}
+
+
+/*--About--*/
+
 #about{
     padding: 80px 0;
     color: #51822B;
@@ -234,8 +272,17 @@ body {background: #222;}
 }
 
 .aboutimg{
+
     width: 600px;
  main
+
+    width: 500px;
+
+
+
+
+
+
 }
 
 .row{
@@ -248,6 +295,12 @@ body {background: #222;}
     font-size: 60px;
     font-weight: 600;
     color: #51822B ;
+}
+
+
+body {
+    background: #222;
+
 }
 
 /*----skills----*/
@@ -357,6 +410,7 @@ body {background: #222;}
 #softSkills{
     text-align:center
 }
+
 
 /*--Education--*/
 #education{
@@ -476,6 +530,10 @@ body {background: #222;}
     height: 100%;
 }
 
+
+
+
+
 /*----testimonials----*/
 #testimonials{
     padding: 30px 0;
@@ -526,6 +584,7 @@ body {background: #222;}
     color: #DB9714;
     transform: translateY(-10px);
 }
+
 
 /*----contact----*/
 #contact{
@@ -636,3 +695,10 @@ form .btn{
 }   
 
  
+
+
+}
+
+
+
+
