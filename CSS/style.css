@@ -87,6 +87,28 @@ body{
 }
 
 
+/*--Education--*/
+#education{
+    padding: 80px;
+    background: #9F241D;
+    color: #5D120F;
+    text-align: center;
+ folderStructure
+    padding-top: 7%;
+}
+
+.table{
+    background: #5D120F;
+    color: #fff;
+    width: 90vw;
+    margin-left:auto;
+    margin-right: auto;
+}   
+
+.images{
+    width: 100px;
+}
+
 
  
 
@@ -371,4 +393,5 @@ body {
 
 
 }
+
 
